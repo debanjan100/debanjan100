@@ -8,11 +8,11 @@
 
 **Data Science & Software Engineering Enthusiast | Open Source Contributor | Graphic Designer**
 
-🌱 I'm currently follow steps to master: Data Engineering.
+🌱 I'm currently follow steps to master: Full Stack Web Development
 
 💬 Ask me about Python / SQL / Web Dev / Designing / Anything.
 
-📫 How to reach me: abhirajadhikary06@gmail.com
+📫 How to reach me: ghoruidebanjan@gmail.com
 
 ⚡ About me: I'm a BackBencher with Lil Intelligence.
 
@@ -102,11 +102,10 @@
 ## Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debanjanghorui5567)
-[![Hackerrank](https://img.shields.io/badge/Hackerrank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/abhirajadhikary1)
+[![Hackerrank](https://img.shields.io/badge/Hackerrank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/ghoruidebanjan)
 [![Leetcode](https://img.shields.io/badge/Leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/0vz9vQHr2y/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhirajadhikary06)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/debanjan100)
 [![Devfolio](https://img.shields.io/badge/Devfolio-Profile-9cf?style=for-the-badge&logo=devfolio)](https://devfolio.co/@debanjan_ghorui)
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/abhirajadhikary06)
 
 
 **THANK YOU FOR VISITING! DO FOLLOW AND STAY CONNECTED {"_"}**
