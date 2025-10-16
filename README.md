@@ -6,7 +6,7 @@
 
 
 
-**Data Science & Software Engineering Enthusiast | Open Source Contributor | Graphic Designer**
+**Data Science & Software Engineering Enthusiast | Open Source Contributor |Full Stack Web Developer
 
 🌱 I'm currently follow steps to master: Full Stack Web Development
 
