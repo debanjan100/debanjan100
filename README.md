@@ -10,7 +10,7 @@
 
 🌱 I'm currently follow steps to master: Full Stack Web Development
 
-💬 Ask me about Python / SQL / Web Dev / Designing / Anything.
+💬 Ask me about Python / SQL / Web Dev /anything
 
 📫 How to reach me: ghoruidebanjan@gmail.com
 
