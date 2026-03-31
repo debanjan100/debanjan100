@@ -63,7 +63,6 @@
 [![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
 [![Scipy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)](https://scipy.org/)
 [![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
-[![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)](https://keras.io/)
 [![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 
 ### API/Testion & Collaboration Tools:
@@ -109,7 +108,3 @@
 
 
 **THANK YOU FOR VISITING! DO FOLLOW AND STAY CONNECTED {"_"}**
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=debanjan100)](https://git.io/streak-stats)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=debanjan100&theme=algolia)](https://git.io/streak-stats)
