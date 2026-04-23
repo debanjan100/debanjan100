@@ -2,11 +2,11 @@
   <img src="https://github.com/user-attachments/assets/5d393214-7d2f-45fa-9597-885de14d3f8b" width="350" style="vertical-align: middle;">
   <h1>🔥 Hi there! I'm DEBANJAN GHORUI</h1>
 </div>
-
-<div align="center">
-  <img src="header.gif" alt="Debanjan Ghorui Header" />
-</div>
-
+[![Follow](https://img.shields.io/github/followers/debanjan100?label=Follow%20Me&style=for-the-badge&logo=github&color=181717&logoColor=white)](https://github.com/debanjan100)
+[![Stars](https://img.shields.io/github/stars/debanjan100?label=Total%20Stars&style=for-the-badge&logo=github&color=F0C040&logoColor=black)](https://github.com/debanjan100?tab=repositories)
+[![Profile Views](https://komarev.com/ghpvc/?username=debanjan100&style=for-the-badge&color=58a6ff&label=Profile+Views)](https://github.com/debanjan100)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-F0C040?style=for-the-badge&logo=vercel&logoColor=black)](https://debanjanghorui.vercel.app/)
+[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/debanjan100)
 **Data Science & Software Engineering Enthusiast | Open Source Contributor |Full Stack Web Developer
 
 🌱 I'm currently follow steps to master: Full Stack Web Development
@@ -14,8 +14,6 @@
 💬 Ask me about Python / SQL / Web Dev /anything
 
 📫 How to reach me: ghoruidebanjan@gmail.com
-
-⚡ About me: I'm a BackBencher with Lil Intelligence.
 
 💪 Smart Work + Automation + Quick Adaptation + Critical Thinking = ME
 
