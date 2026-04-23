@@ -3,11 +3,8 @@
   <h1>🔥 Hi there! I'm DEBANJAN GHORUI</h1>
 </div>
 
-
 <div align="center">
-  <a href="https://github.com/debanjan100">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&height=100&lines=DEBANJAN+GHORUI;Full-Stack+Web+Developer;AI+Integration+Enthusiast" alt="Debanjan Ghorui - Animated Header" />
-  </a>
+  <img src="header.gif" alt="Debanjan Ghorui Header" />
 </div>
 
 **Data Science & Software Engineering Enthusiast | Open Source Contributor |Full Stack Web Developer
